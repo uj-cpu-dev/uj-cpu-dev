@@ -1,4 +1,4 @@
-## Senior Full Stack Engineer — Real-Time Transactional Systems
+## Full Stack Engineer — Real-Time Transactional Systems
 
 I build systems where latency, uptime and correctness carry money.
 
